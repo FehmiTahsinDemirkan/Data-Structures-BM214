@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/(1.hafta)LinkedListExample/(1.hafta)LinkedListExample.iml" filepath="$PROJECT_DIR$/(1.hafta)LinkedListExample/(1.hafta)LinkedListExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/(2.hafta)DoubleCircularLinkedListExample/(2.hafta)DoubleCircularLinkedListExample.iml" filepath="$PROJECT_DIR$/(2.hafta)DoubleCircularLinkedListExample/(2.hafta)DoubleCircularLinkedListExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/(3.hafta)StackExample/(3.hafta)StackExample.iml" filepath="$PROJECT_DIR$/(3.hafta)StackExample/(3.hafta)StackExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures-BM214.iml" filepath="$PROJECT_DIR$/Data-Structures-BM214.iml" />
+    </modules>
+  </component>
+</project>
